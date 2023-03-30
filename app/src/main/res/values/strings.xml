@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArestidevsPesoEdad</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="heigh">Altura</string>
+
+</resources>
